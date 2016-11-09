@@ -1,7 +1,7 @@
 # Server-Log-Analysis
 This notebook will demonstrate how to use Apache Spark to perform web log analysis.
 
-## [See Notebook](http://nbviewer.jupyter.org/github/ArthurLu/Entity-Resolution-On-Text-Similarity/blob/master/PySpark%20-%20Entity%20Resolution.ipynb)
+## [See Notebook](http://nbviewer.jupyter.org/github/ArthurLu/Server-Log-Analysis/blob/master/PySpark%20-%20Server%20Log%20Analysis.ipynb)
 
 ## Summary of data set
 This data set comes from NASA Kennedy Space Center WWW server in Florida.
