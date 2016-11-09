@@ -1,0 +1,4 @@
+#dummy files
+.ipynb_checkpoints/*
+metastore_db/*
+data/*
